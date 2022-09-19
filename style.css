@@ -1,0 +1,29 @@
+body {
+   background: #CCCCCC;
+}
+
+h1  {
+     
+     text-align: center;
+     color: blue;
+     height: 150px;
+     border: 10px solid #000000;
+     padding-top: 20px;
+     margin-left: 15px;
+}
+
+#missao {
+       font-size: 20px
+}
+
+
+#banner{
+    width: 100%;
+}
+
+p {
+       text-align: center;       
+}
+
+em strong {
+  color: blue;
